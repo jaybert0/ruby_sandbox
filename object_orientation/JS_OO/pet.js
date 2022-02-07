@@ -16,3 +16,4 @@ class Pet {
         document.getElementById("container").appendChild(h3)
     }
 }
+
